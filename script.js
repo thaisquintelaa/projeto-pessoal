@@ -1,4 +1,4 @@
-const jogar = confirm('Bem-vindo(a) ao nosso mundo Barbie!')
+function jogar1() {const jogar = confirm('Bem-vindo(a) ao nosso mundo Barbie!')
 alert('A Barbie virou um símbolo do empoderamento feminino, de acreditarmos em nós, em sermos poderosas, empreendedoras, sermos o que quisermos ser. Hoje, todas as mulheres são representadas pela boneca, então, somos todas Barbies, mas somos diferentes.')
 alert('Quem você seria em Barbie?')
 prompt('Escolha uma cor: Rosa, Vermelho, Preto, Roxo')
@@ -10,4 +10,6 @@ alert('você seria...')
 alert('Na verdade a pergunta nâo é (Quem você seria?) mais é (Quem você quer ser!) Você é forte e poderosa e você pode ser quem quiser!')
 alert('Amar a si mesmo agora,assim como você é, é se dar o céu')
 alert('A beleza se apresenta de todas as formas, cores e tamanhos!')
-alert('Então hoje mulher, quem você quer ser? Você é Barbie!')
+alert('Então hoje mulher, quem você quer ser? Você é Barbie!')}
+
+jogar1()
